@@ -7,7 +7,10 @@ div{
     margin: 50px;
     border: 10px solid rgb(102, 194, 222);
     padding: 20px;
-    
+
+    border-radius: 10px;
+
+
     text-align: justify;
 
 }

@@ -1,0 +1,13 @@
+div{
+    font-size: 25px;
+
+    color: black;
+    background-color: tomato;
+
+    margin: 50px;
+    border: 10px solid rgb(102, 194, 222);
+    padding: 20px;
+    
+    text-align: justify;
+
+}
